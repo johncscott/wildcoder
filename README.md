@@ -1,6 +1,8 @@
 # wildcoder
 Song
 
+The wild rover is a traditional Irish song sung everywhere for St Patricks day (original below). I am updating it for Umbraco. This is my first draft. Please tweet @johncscott any lines you think could be better, or commit versions here.
+
 
 "Wild Coder"
 
@@ -43,3 +45,49 @@ And it's no X.S.L.T.!
 and no version 4
 so for me in Umbraco,
 just razor for sure
+
+
+
+ORIGINAL :
+
+"Wild Rover"
+
+I've been a wild rover for many's a year,
+And I've spent all my money on whiskey and beer
+And now I'm returning with gold in great store,
+And I never will play the wild rover no more
+
+And it's no, nay, never!
+No nay never no more
+And I'll play the wild rover,
+No never no more
+
+I went to an alehouse I used to frequent,
+And I told the landlady my money was spent
+I asked her for credit, she answered me, "Nay",
+Saying, "Custom like yours I can have any day"
+
+And it's no, nay, never!
+No nay never no more
+And I'll play the wild rover,
+No never no more
+
+I took from my pocket ten sovereigns bright,
+And the landlady's eyes opened wide with delight
+She said, "I have whiskeys and wines of the best,
+And the words that I told you were only in jest"
+
+And it's no, nay, never!
+No nay never no more
+And I'll play the wild rover,
+No never no more
+
+I'll go home to my parents, confess what I've done,
+And I'll ask them to pardon their prodigal son
+And when they have kissed me as oft-times before,
+I never will play the wild rover no more
+
+And it's no, nay, never!
+No nay never no more
+And I'll play the wild rover,
+No never no more
